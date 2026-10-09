@@ -3,6 +3,7 @@
 
 **Database**  
 Database adalah tempat kita menyimpan table di MySQL, jika misalkan table di MySQL adalah sebuah file, maka database adalah folder nya, yang dimana bisa menyimpan banyak table di sebuah database. Untuk sebuah aplikasi biasanya hanya memakai 1 database saja, jarang ada aplikasi yang connect ke 2 database, jadi biasanya hanya membuat sebuah 1 database saja yang bisa dibuat menjadi subdatabase, seperti gambar  berikut:  
+
 <img width="761" height="432" alt="mysqlll" src="https://github.com/user-attachments/assets/67f9bf5f-1aee-4726-b4f2-b25a2b396f84" />
 
 **Perintah dasar MySQL**
