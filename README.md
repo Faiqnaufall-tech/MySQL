@@ -15,8 +15,9 @@ Database adalah tempat kita menyimpan table di MySQL, jika misalkan table di MyS
 | `drop database nama_database` | menghapus database |
 | `use nama_database` | memilih database |
 | `show tables` | menampilkan table di database |  
-| `ALTER TABLE nama_database` | digunakan untuk memodifikasi tabel |  
-| `DESC nama_database` | menampilkan informasi atau struktur dari suatu tabel |  
+| `ALTER TABLE nama_tabel` | digunakan untuk memodifikasi tabel |  
+| `DESC nama_tabel` | menampilkan informasi atau struktur dari suatu tabel |  
+| `TRUNCATE nama_tabel` | untuk membuat ulang tabel |  
 
 **Tipe Data**  
 tipe data di MySQL itu hanya bisa digunakan per kolom, jadi misal kan kolom 1 terdapat tipe data number berarti kolom tersebut harus bertipe data number semua tetapi di tipe data text itu kita bisa menginputkan number cuman kalau tipe data number itu gak bisa di inputkan text, contoh nya seperti berikut:  
