@@ -27,10 +27,24 @@ secara garis besar tipe data number di MySQL itu ada dua jenis yaitu *Integer* a
 *contoh tipe data interger*  
 
 <img width="1244" height="472" alt="tipedataint" src="https://github.com/user-attachments/assets/7b86aac3-75cf-4efb-b1d4-ad1b9888cfd7" />  
-
   
 *contoh tipe data floating point*  
 
-<img width="1244" height="374" alt="tipedatafloating" src="https://github.com/user-attachments/assets/5303b59c-d00e-4ca9-9c10-83f25326a599" />
+<img width="1244" height="374" alt="tipedatafloating" src="https://github.com/user-attachments/assets/5303b59c-d00e-4ca9-9c10-83f25326a599" />  
+
+*contoh tipe data decimal*  
+<img width="1083" height="553" alt="image" src="https://github.com/user-attachments/assets/53b0f7af-7aa2-4aa4-a7a3-d99d420d25f5" />  
+
+*contoh number atrribute*  
+<img width="1248" height="295" alt="image" src="https://github.com/user-attachments/assets/26327346-085a-4033-9f12-54269295f390" />  
+
+
+**Tipe data String**  
+Tipe data string digunakan untuk menyimpan data di dalam tabel dalam bentuk tulisan/teks, tipe data string itu ada banyak, contoh nya sebagai berikut:  
+<img width="1108" height="404" alt="image" src="https://github.com/user-attachments/assets/c11cadbc-64bd-4be6-8707-28caf5097bbd" />
+  
+
+
+
 
 
